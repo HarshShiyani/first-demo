@@ -1,0 +1,2 @@
+
+functions in java are useful to write block of code that prevent rewriting of code again and again for same purpose.

@@ -1,0 +1,7 @@
+
+ -- oops means Object Oriented Programming language.
+ -- There are main 4 pillars of oop in java
+	1) Encapsulation
+	2) Inheritance
+	3) Polymorphism
+	4) Abstraction
